@@ -106,9 +106,9 @@ The dataset used for this project contains the following key columns:
 ---
 
 ## Author
-- **[Your Name]**  
+- **Sameer Pathak**  
   Data Analyst | Python Developer  
-  [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+  [LinkedIn Profile](https://www.linkedin.com/in/sameer-pathak-8aa33727b/)  
 
 ---
 
